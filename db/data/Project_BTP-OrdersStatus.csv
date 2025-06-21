@@ -1,0 +1,4 @@
+code,name,criticality
+Canceled,Canceled,1
+Open,Open,2
+Completed,Completed,3

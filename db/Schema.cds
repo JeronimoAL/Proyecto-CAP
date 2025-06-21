@@ -18,8 +18,8 @@ entity Headers {
     ImageUrl : String(256);
     detailHeaders : Association to many Items
                 on detailHeaders.IdH = $self; 
-    Items : Composition of many Items 
-    on Items.IdH = $self;
+    ToItems : Composition of many Items 
+    on ToItems.IdH = $self;
 }
 
 entity Items {
@@ -29,11 +29,12 @@ entity Items {
     RealiseDate : Date;
     DiscontinuedDate : Date;
     Price : Decimal(12, 2);
+    Currency : Association to Currencies;
     Height : Decimal(15, 3);
     Width : Decimal(13, 3);
     Depth : Decimal(12, 2);
     Quantity : Decimal(16, 2);
-    UnitOfMesure : String(5); 
+    UnitOfMesure : String(5) default 'CM'; 
     IdH : Association to Headers;
 }
 

@@ -7,7 +7,8 @@ annotate services.Items with {
     Description      @title : 'Description';
     RealiseDate      @title : 'Release Date';
     DiscontinuedDate @title : 'Discontinued Date';
-    Price            @title : 'Price';
+    Price            @title : 'Price'; @Measures.ISOCurrency : 'Currency'
+    Currency         @title : 'Currency' @Common.IsCurrency;
     Height           @title : 'Heigth' @Measures.Unit : UnitOfMesure;
     Width            @title : 'Width' @Measures.Unit : UnitOfMesure;
     Depth            @title : 'Depth' @Measures.Unit : UnitOfMesure;

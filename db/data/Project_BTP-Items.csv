@@ -1,38 +1,38 @@
 Id,Name,Description,RealiseDate,DiscontinuedDate,Price,Height,Width,Depth,Quantity,UnitOfMesure,IdH_Id
-1, Microcontrolador ARM Cortex-M4, MCU de 32-bit 120MHz, 1MB Flash, 20200115, , 850.00, USD, 0.5, 7.0, 7.0, 150, MM, 005638984K-1
-2, Convertidor ADC 16-bit, Módulo ADC de alta precisión, 20190520, , 320.00, USD, 0.3, 5.0, 5.0, 200, MM, 005638984K-1
-3, Regulador LDO 3.3V, Regulador de voltaje 500mA, 20180210, 20221201, 45.00, USD, 0.2, 3.0, 3.0, 500, MM, 005638984K-1
-4, Sensor de temperatura I2C, Precisión ±0.5°C, rango -40 a +125°C, 20200312, , 120.00, USD, 0.8, 3.0, 3.0, 300, MM, 007892345L-2
+1, Microcontrolador ARM Cortex-M4, MCU de 32-bit 120MHz, 1MB Flash, 20200115, 20230601, 850.00, USD, 0.5, 7.0, 7.0, 150, MM, 005638984K-1
+2, Convertidor ADC 16-bit, Módulo ADC de alta precisión, 20190520,20210418 , 320.00 ,USD, 0.3, 5.0, 5.0, 200, MM, 005638984K-1
+3, Regulador LDO 3.3V, Regulador de voltaje 500mA, 20180210, 20221201,20200115, 45.00, USD, 0.2, 3.0, 3.0, 500, MM, 005638984K-1
+4, Sensor de temperatura I2C, Precisión ±0.5°C, rango -40 a +125°C, 20200312, 20241225 , 120.00, USD, 0.8, 3.0, 3.0, 300, MM, 007892345L-2
 5, Driver MOSFET de puente H, Controlador para motores DC, 20191105, , 280.00, USD, 1.0, 5.0, 6.0, 180, MM, 007892345L-2
 6, Módulo Bluetooth 5.0, Chipset BLE de bajo consumo, 20210418, , 420.00, USD, 1.2, 10.0, 15.0, 120, MM, 007892345L-2
 7, FPGA Xilinx Artix-7, Familia de FPGAs de bajo consumo, 20191210, , 1850.00, USD, 1.5, 17.0, 17.0, 50, MM, 003217896M-3
 8, Convertidor DAC 12-bit, Salida analógica de alta velocidad, 20200722, , 380.00, USD, 0.5, 5.0, 5.0, 150, MM, 003217896M-3
 9, Amplificador operacional dual, GBW 10MHz, rail-to-rail, 20180515, 20230601, 75.00, USD, 0.4, 3.0, 3.0, 400, MM, 003217896M-3
-10, Regulador conmutado 5V, Eficiencia 95%, 2A de salida, 20210205, , 210.00, USD, 0.6, 4.0, 4.0, 250, MM, 009876543S-4
-11, Sensor de humedad capacitivo, Rango 0-100% RH, salida digital, 20200812, , 180.00, USD, 0.5, 3.0, 3.0, 180, MM, 009876543S-4
-12, Módulo WiFi ESP32, Dual-core con conectividad WiFi/BT, 20191120, , 520.00, USD, 1.0, 18.0, 25.0, 90, MM, 009876543S-4
-13, Display OLED 1.3", Pantalla 128x64, interfaz I2C, 20200615, , 380.00, USD, 0.8, 35.0, 35.0, 120, MM, 002345678T-5
-14, Memoria Flash SPI, 16MB, interfaz SPI de alta velocidad, 20190310, , 150.00, USD, 0.3, 8.0, 6.0, 200, MM, 002345678T-5
+10, Regulador conmutado 5V, Eficiencia 95%, 2A de salida, 20210205, 20210515, 210.00, USD, 0.6, 4.0, 4.0, 250, MM, 009876543S-4
+11, Sensor de humedad capacitivo, Rango 0-100% RH, salida digital, 20200812, 20220618, 180.00, USD, 0.5, 3.0, 3.0, 180, MM, 009876543S-4
+12, Módulo WiFi ESP32, Dual-core con conectividad WiFi/BT, 20191120,20210515 , 520.00, USD, 1.0, 18.0, 25.0, 90, MM, 009876543S-4
+13, Display OLED 1.3", Pantalla 128x64, interfaz I2C, 20200615,20220607 , 380.00, USD, 0.8, 35.0, 35.0, 120, MM, 002345678T-5
+14, Memoria Flash SPI, 16MB, interfaz SPI de alta velocidad, 20190310,20221001 , 150.00, USD, 0.3, 8.0, 6.0, 200, MM, 002345678T-5
 15, Optoacoplador 4 canales, Aislamiento galvánico 5kV, 20171205, 20221001, 95.00, USD, 0.4, 10.0, 7.0, 300, MM, 002345678T-5
-16, Sensor de presión barométrica, Rango 300-1100 hPa, I2C/SPI, 20210420, , 280.00, USD, 0.7, 3.0, 3.0, 150, MM, 004567891R-6
-17, Transistor MOSFET N-Channel, 30V 5.8mΩ 60A, paquete PowerDI5, 20200910, , 120.00, USD, 0.5, 5.0, 6.0, 400, MM, 004567891R-6
-18, Relé de estado sólido, Salida 5V DC, 2A, 20191115, , 85.00, USD, 0.8, 8.0, 8.0, 250, MM, 004567891R-6
-19, Microcontrolador RISC-V, 32-bit 160MHz, 512KB Flash, 20210705, , 720.00, USD, 0.5, 7.0, 7.0, 180, MM, 006789123P-7
-20, Convertidor DC-DC buck, Entrada 36V, salida 5V 3A, 20201112, , 310.00, USD, 0.6, 4.0, 4.0, 200, MM, 006789123P-7
-21, Sensor de corriente I2C, Rango ±3.2A, precisión 1%, 20201215, , 190.00, USD, 0.4, 3.0, 3.0, 150, MM, 006789123P-7
-22, Módulo GPS multi-band, Precisión submétrica, UART/I2C, 20210520, , 450.00, USD, 1.0, 18.0, 18.0, 80, MM, 001234567Q-8
-23, Interface USB-C PD, Controlador USB Power Delivery, 20200210, , 280.00, USD, 0.5, 5.0, 5.0, 120, MM, 001234567Q-8
+16, Sensor de presión barométrica, Rango 300-1100 hPa, I2C/SPI, 20210420, 20221001, 280.00, USD, 0.7, 3.0, 3.0, 150, MM, 004567891R-6
+17, Transistor MOSFET N-Channel, 30V 5.8mΩ 60A, paquete PowerDI5, 20200910, 20221001, 120.00, USD, 0.5, 5.0, 6.0, 400, MM, 004567891R-6
+18, Relé de estado sólido, Salida 5V DC, 2A, 20191115,20231024 , 85.00, USD, 0.8, 8.0, 8.0, 250, MM, 004567891R-6
+19, Microcontrolador RISC-V, 32-bit 160MHz, 512KB Flash, 20210705, 20231024, 720.00, USD, 0.5, 7.0, 7.0, 180, MM, 006789123P-7
+20, Convertidor DC-DC buck, Entrada 36V, salida 5V 3A, 20201112, 20231024, 310.00, USD, 0.6, 4.0, 4.0, 200, MM, 006789123P-7
+21, Sensor de corriente I2C, Rango ±3.2A, precisión 1%, 20201215, 20231024, 190.00, USD, 0.4, 3.0, 3.0, 150, MM, 006789123P-7
+22, Módulo GPS multi-band, Precisión submétrica, UART/I2C, 20210520, 20231024, 450.00, USD, 1.0, 18.0, 18.0, 80, MM, 001234567Q-8
+23, Interface USB-C PD, Controlador USB Power Delivery, 20200210, 20231024, 280.00, USD, 0.5, 5.0, 5.0, 120, MM, 001234567Q-8
 24, Sensor de gas MQ-135, Detección de calidad del aire, 20190905, 20230101, 65.00, USD, 0.8, 20.0, 15.0, 180, MM, 001234567Q-8
-25, Diodo Zener 5.1V, 1W, tolerancia 5%, 20181015, , 8.00, USD, 0.3, 2.0, 1.0, 1000, MM, 008765432U-9
-26, Regulador de conmutación síncrona, Eficiencia 97%, 5V 6A, 20210310, , 350.00, USD, 0.7, 5.0, 5.0, 150, MM, 008765432U-9
-27, Módulo LoRaWAN, Comunicación de largo alcance, 20201120, , 520.00, USD, 1.0, 15.0, 20.0, 70, MM, 008765432U-9
-28, Microcontrolador PIC18F, 8-bit 64MHz, 128KB Flash, 20200610, , 380.00, USD, 0.5, 5.0, 5.0, 200, MM, 005432189V-10
-29, Sensor de efecto Hall, Detección de campo magnético, 20201215, , 95.00, USD, 0.3, 3.0, 3.0, 300, MM, 005432189V-10
-30, Driver de motor paso a paso, Controlador bipolar 2A, 20200105, , 210.00, USD, 0.8, 10.0, 8.0, 120, MM, 005432189V-10
-31, Módulo Ethernet 10/100, Interface con protocolo TCP/IP, 20200720, , 420.00, USD, 1.0, 25.0, 18.0, 90, MM, 003456782W-11
-32, Sensor de proximidad IR, Rango 2-30cm, salida digital, 20200515, , 65.00, USD, 0.5, 8.0, 8.0, 180, MM, 003456782W-11
-33, Regulador LDO ajustable, 1.2-15V, 500mA, bajo dropout, 20190910, , 55.00, USD, 0.3, 3.0, 3.0, 250, MM, 003456782W-11
+25, Diodo Zener 5.1V, 1W, tolerancia 5%, 20181015, 20241122 , 8.00, USD, 0.3, 2.0, 1.0, 1000, MM, 008765432U-9
+26, Regulador de conmutación síncrona, Eficiencia 97%, 5V 6A, 20210310, 20240817, 350.00, USD, 0.7, 5.0, 5.0, 150, MM, 008765432U-9
+27, Módulo LoRaWAN, Comunicación de largo alcance, 20201120,20231020 , 520.00, USD, 1.0, 15.0, 20.0, 70, MM, 008765432U-9
+28, Microcontrolador PIC18F, 8-bit 64MHz, 128KB Flash, 20200610, 20231024, 380.00, USD, 0.5, 5.0, 5.0, 200, MM, 005432189V-10
+29, Sensor de efecto Hall, Detección de campo magnético, 20201215, 20230524, 95.00, USD, 0.3, 3.0, 3.0, 300, MM, 005432189V-10
+30, Driver de motor paso a paso, Controlador bipolar 2A, 20200105,20230327 , 210.00, USD, 0.8, 10.0, 8.0, 120, MM, 005432189V-10
+31, Módulo Ethernet 10/100, Interface con protocolo TCP/IP, 20200720, 20231024, 420.00, USD, 1.0, 25.0, 18.0, 90, MM, 003456782W-11
+32, Sensor de proximidad IR, Rango 2-30cm, salida digital, 20200515, 20231024, 65.00, USD, 0.5, 8.0, 8.0, 180, MM, 003456782W-11
+33, Regulador LDO ajustable, 1.2-15V, 500mA, bajo dropout, 20190910, 20231122, 55.00, USD, 0.3, 3.0, 3.0, 250, MM, 003456782W-11
 34, Convertidor lógico bidireccional, Conversión de nivel 1.8V/3.3V/5V, 20200325, , 85.00, USD, 0.4, 3.0, 3.0, 300, MM, 007654321X-12
-35, Sensor de humedad del suelo, Salida analógica, resistivo, 20201210, , 45.00, USD, 0.6, 5.0, 15.0, 200, MM, 007654321X-12
-36, Módulo relé de 4 canales, Control 250VAC/10A por canal, 20200815, , 380.00, USD, 1.5, 50.0, 40.0, 60, MM, 007654321X-12
-37, Cristal oscilador 16MHz, Oscilador de cristal HC-49/S, 20180401, , 12.00, USD, 0.5, 11.0, 4.0, 500, MM, 005638984K-1
+35, Sensor de humedad del suelo, Salida analógica, resistivo, 20201210, 20231122, 45.00, USD, 0.6, 5.0, 15.0, 200, MM, 007654321X-12
+36, Módulo relé de 4 canales, Control 250VAC/10A por canal, 20200815,20231122 , 380.00, USD, 1.5, 50.0, 40.0, 60, MM, 007654321X-12
+37, Cristal oscilador 16MHz, Oscilador de cristal HC-49/S, 20180401, 20231122, 12.00, USD, 0.5, 11.0, 4.0, 500, MM, 005638984K-1
